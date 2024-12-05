@@ -1,0 +1,2 @@
+#include "MDIParentForm.h"
+
